@@ -98,6 +98,20 @@ Power BI Dashboard
 
 ✔ Actionable Retention Insights
 
+## Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
+
+##Contact
+
+Your Name
+📧 rutvilandge@gamil.com
+🔗 LinkedIn :www.linkedin.com/in/rutvi-landge-9988413b0
+
+<div align="center">
+⭐ If you found this project useful, consider giving it a star!
+
+</div>
 
 
 
